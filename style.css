@@ -1,0 +1,42 @@
+#container {
+    
+}
+#logo {
+    margin-left: 100px;
+}
+.form {
+    margin-bottom:10px;
+}
+.font {
+    font-size: 12px;
+    margin-top: 2px;
+}
+#message {
+    margin-left: 150px;
+}
+#signup {
+    margin-left: 150px;
+    margin-top: 50px;
+    float: left;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+}
+
+.form input[email] {
+    width: 150px;
+    height: 50px;
+
+}
+
+#right{
+    float: right;
+    position: relative;
+    top: -240px;
+    margin-right: 0px;
+
+}
+
+
